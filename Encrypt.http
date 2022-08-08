@@ -1,0 +1,10 @@
+POST http://localhost:8888/encrypt
+Content-Type: application/json
+
+1234
+###
+POST localhost:8888/decrypt
+Content-Type: text/plain
+
+a680ddfcf87becac8935f60863bbf952b3ca81d550f5c228c65fdd5aa538644d
+
