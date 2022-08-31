@@ -1,10 +1,10 @@
 POST http://localhost:8888/encrypt
 Content-Type: application/json
 
-1234
+test1357
 ###
 POST localhost:8888/decrypt
 Content-Type: text/plain
 
-a680ddfcf87becac8935f60863bbf952b3ca81d550f5c228c65fdd5aa538644d
+285bd1d3c0d2303f54d5111458d53a96578bfe5f261b49670ef965b993a0311e
 
